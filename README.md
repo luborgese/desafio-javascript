@@ -11,4 +11,4 @@ Neste desafio criamos um programa que solicita ao usuário um número inteiro e 
 <br>
 O programa imprime a mensagem "O número atende aos critérios.", se o número atender a todos os critérios acima, caso contrário, imprime a mensagem "O número não atende aos critérios.".
 </p>
-<h4>:computer:Foram utilizadas as linguagens: HTML e CSS e JS</h4>
+<h4>:computer:Foram utilizadas as linguagens: HTML, CSS e JS</h4>
