@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 198, 232);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 250px;
+}
+
+h1 {
+    font-size: 50px;
+    color:#a91a69;
+}
+
+.primeiro {
+    font-size: 40px;
+    color:#a91a69;
+}
+
+.segundo {
+    font-size: 30px;
+    color: #a91a69;
+}
